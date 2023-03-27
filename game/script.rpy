@@ -41,21 +41,44 @@ Le souvenir doit-il être marquant, ou bien lointain ? Est-il flou ou bien net ?
 
 {clear}
 
-D’ailleurs, je suis persuadé que cette histoire de 3 ans n’est pas une règle absolue.\n
-Il doit y avoir, dans ce monde, une personne qui se souvient du jour de sa naissance.
+D’ailleurs, je suis persuadé que cette histoire de 3 ans n’est pas une règle absolue.
+\n\nIl doit y avoir, dans ce monde, une personne qui se souvient du jour de sa naissance.
 
 {clear}
 
 Non.
-Peut-elle que cette personne ne vit-elle plus dans ce monde.
-Je suis sur qu’en cherchant bien, il devrait être possible de trouver une revue, un journal, un grimoire ou bien une vieille légende de quelqu’un capable de se souvenir du jour de sa naissance.
-Ce serait cocasse, je pense que beaucoup de monde seraient curieux d’avoir ce type de souvenir. Ça pourrai être un sujet de conversation marrant j’imagine.
-« Tu sais, tu sais, j’ai des souvenirs du jour de ma naissance ! »
-« Naaaaaaan, tu mens ! »
-« Si je te promets, je m’en souviens parfaitement. »
-Quelque chose dans le genre.
-Ce serait drôle, en effet. Pavané devant ses connaissances, en rire et s’en remémorer avec nostalgie, j’imagine que beaucoup de monde voudraient bien.
-Mais ce serait triste aussi.
+
+
+
+Peut-elle que cette personne ne vit-elle plus dans ce monde.\n
+
+{clear}
+
+Je suis sur qu’en cherchant bien, il devrait être possible de trouver une revue, un journal, un grimoire ou bien une vieille légende de \nquelqu’un capable de se souvenir du jour de sa naissance.
+
+\nCe serait cocasse, je pense que beaucoup de monde seraient curieux d’avoir ce type de souvenir. 
+
+\nÇa pourrai être un sujet de conversation marrant j’imagine.
+
+\n\n« Tu sais, tu sais, j’ai des souvenirs du jour de ma naissance ! »
+\n\n« Naaaaaaan, tu mens ! »
+\n\n« Si je te promets, je m’en souviens parfaitement. »
+
+
+\n\nQuelque chose dans le genre.
+
+{clear}
+
+Ce serait drôle, en effet.
+
+\nPavané devant ses connaissances, en rire et s’en remémorer avec nostalgie, j’imagine que beaucoup de monde voudraient bien.
+
+\n
+\n
+\nMais ce serait triste aussi.
+
+{clear}
+
 Ce serait triste d’avoir à se souvenir de tout depuis sa naissance.
 Les bons moments arriveraient-ils à compenser les mauvais ?
 Pour nous protéger, on arrive à supprimer inconsciemment ce qui nous fait le plus souffrir.

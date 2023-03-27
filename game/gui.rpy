@@ -1,4 +1,4 @@
-﻿################################################################################
+################################################################################
 ## Initialisation
 ################################################################################
 
@@ -62,6 +62,8 @@ define gui.interface_text_color = '#ffffff'
 ## Les polices utilisées pour le texte du jeu.
 define gui.text_font = "DejaVuSans.ttf"
 
+
+
 ## Les polices utilisées pour le nom des personnages.
 define gui.name_text_font = "DejaVuSans.ttf"
 
@@ -85,6 +87,8 @@ define gui.notify_text_size = 24
 
 ## La taille du titre du jeu.
 define gui.title_text_size = 75
+
+
 
 
 ## Menu du jeu et menu principal ###############################################
