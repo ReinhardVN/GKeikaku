@@ -385,7 +385,7 @@ define gui.nvl_borders = Borders(0, 170, 0, 30)
 
 ## Le nombre maximum d'entrées en mode NVL que Ren'Py affichera. Quand plus
 ## d'entrées sont affichées, les plus anciennes seront retirées.
-define gui.nvl_list_length = 6
+define gui.nvl_list_length = 10
 
 ## La hauteur d’une entrée en mode NVL. Initialisez-la à « None » pour que la
 ## hauteur des entrées s’ajuste automatiquement.
