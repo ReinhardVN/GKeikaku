@@ -8,13 +8,37 @@
 define mc = Character("", kind=nvl)
 define narrator = nvl_narrator
 init:
+
     image rain:
-        "rain 1.png"
+        animation
+        "rain1.png"
         0.1
-        "rain 3.png"
+        "rain3.png"
         0.1
-        "rain 2.png"
+        "rain2.png"
         0.1
+        repeat
+        
+    image lightning:
+        animation
+        choice:        #weight of choice is 1
+            "lightning.png"
+            alpha  0.0
+            0.5                 # show nothing for 0.5 seconds
+        
+        choice 0.1:   #weight of choice is 0.1
+            "lightning.png"
+            alpha  0.0
+            linear 0.3 alpha  1.0
+            linear 0.3 alpha  0.0
+            
+        choice 0.1:
+            "lightning.png"
+            alpha  0.0
+            linear 0.3 alpha  1.0
+            linear 0.3 alpha  0.0
+            xzoom -1
+            
         repeat
 
 # Le jeu commence ici
@@ -248,10 +272,77 @@ label flashback:
 
     """
     Autour de moi, il n’y avait rien. C’était un paysage immense, mais avec rien à l’horizon excepté une plaine entourée par une chaîne montagneuse.
-    Peut-être y’avait-il autre chose, mais mes yeux étaient incapables de distinguer quoi que ce soit. Je ne suis pas sûr d’avoir même cherché à regarder autour de moi.
+
+    Peut-être y’avait-il autre chose, mais mes yeux étaient incapables de distinguer quoi que ce soit. 
+    
+    Je ne suis pas sûr d’avoir même cherché à regarder autour de moi.
+
     Toutefois, je jurerai qu’il y’avait plusieurs éclairs qui frappaient les montagnes proches de nous. Je ne les voyais pas, mais je les entendais comme s’ils atterrissaient à côté de mes oreilles, eux et leurs bruits assourdissants.
 
+    {clear}
+
+    Maintenant que j’y repense, mon corps était totalement engourdi, incapable de bouger ni même de faire quoi que ce soit.
+  
+    Cependant, je me souviens d’une chose, les premiers mots que l’on m’a adressés.
+  
+    « Hé, petit, qu’est-ce que tu fais là ? »
+   
+    C’était une voix d’homme.
+  
+    Je ne me rendais pas compte de sa taille, mais il avait l’air très imposant.
+  
+    Après, quel enfant ne trouverai pas imposant un soldat en armure sur un cheval.
+   
+    Alors que je levais la tête pour voir d’où provenait la voix, je pouvais voir qu’il venait de descendre de son cheval.
+   
+    Un coup d’œil m’a permis de remarquer qu’une personne portant la même armure se trouvait à côté de moi, il s’agissait probablement de la personne qui m’avait mis la serviette sur la tête.
+  
+    Alors que la pluie continuait à battre et la foudre continuait à gronder, je regardait l’homme devant moi qui me paraissait être un géant.
+   
+    Bouche-bée, je n’arrivait pas à dire quoi que ce soit, avais-je seulement la volonté de dire quoi que ce soit ?
+   
+    L’homme se rapprocha alors de moi et dit
+   
+    « Hé, petit, qu’est-ce que tu fais là ? Et comment tu t’appel ? »
+  
+    Aucun son ne sortit de ma bouche grande ouverte.
+   
+    Il posa se tourna alors vers son collègue à mes côtés et dit
+  
+    « On dirait qu’il a les cordes vocales brisées, le camp est un peu loin mais il va falloir le ramener avec nous, on cherchera plus tard son identité. »
+  
+    Le soldat acquiesça.
+   
+    « Bien ! »
+   
+    L’homme se tourna alors vers d’autres personnes derrière lui, toutes en armure et à cheval.
+   
+    « ON A UN ENFANT QUI A L’AIR D’AVOIR DOUZE OU TREIZE ANS SUR LES BRAS, ON VA LE RAMENER AVEC NOUS CAMP, JE LE PRENDS AVEC MOI SUR MON CHEVAL. ON VA ADOPTER LA FORMATION C-38 ! »
+   
+    Je ne sais pas si c’est la météo ou bien le contexte militaire qui le forçait à parler aussi fort, mais je me souviens bien de ce moment.
+   
+    Il m’enroula alors dans ce qui semblait être un drap, me colla entre lui et le cheval et commença à galoper.
+   
+    Le visage collé à l’armure de ce qui semblait être le supérieur de ces soldat faisant que, je ne pouvait rien voir, donc je ne savais pas comment cette formation « C-38 » était sensée s’articuler, mais la finalité était là ils finirent par m’amener à leur camp militaire.
+   
+    Là-bas on a fini par me poser tout un tas de questions, incapable de parler je répondait en hochant la tête de haut en bas ou de droite à gauche.
     
+    Mais ne me souvenant d’absolument rien, c’était la seconde option qui était le plus souvent privilégié.
+    
+    Chercher à me souvenir de quelque chose était comme se confronter à un mur, peu importe comment j’essayais, la méthode utilisée rien n’y faisait. Comme si l’entièreté de mon existence avant que l’on me trouve avait été emporté par un trou noir.
+    
+    Après cela, les soldats qui m’ont retrouvé ont fait pas mal de recherches afin que de trouver mes origines.
+   
+    Il n’y avait absolument rien à l’endroit où ils m’ont retrouvé, ni calèches, ni vêtements, ni informations utilisables.
+    
+    Sotilas, j’ai découvert quelques temps après qu’il s’agissait du nom du soldat qui m’a trouvé, a interroger les villages les plus proches, mais rien.
+    
+    Il a alors pensé qu’un convoi a pu se faire attaquer par des bandits, et que j’aurai réussi à trouver un moyen de m’enfuir, mais aucune information dans se sens ni avis de disparition de qui que ce soit n’a été émis une durant la semaine précédant ni durant la semaine suivant.
+    
+    Ils ont cherché, cherché, cherché et encore cherché, mais rien ni fus. C’est comme si je n’avais jamais existé. La thèse qui a finalement été retenu c’est que j’ai été abandonné dans une forêt non loin par ma famille qui m’aurait abandonnée pour une quelconque raison.
+    
+    Quand j’ai découvert ça… je n’ai pas pu pleurer, je n’ai même pas ressenti quoi que ce soit. Après tout, dans mon esprit, le mot « famille » n’était associé à rien. Ni visage, ni personnes, ni concept.
+
     """
 
 
