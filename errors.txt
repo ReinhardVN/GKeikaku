@@ -2,9 +2,9 @@
 errors listed below, and try again.
 
 
-File "game/script.rpy", line 11: expected statement.
-    bg rain:
-           ^
+File "game/script.rpy", line 419: expected end of line
+    play music rain tent fadein 0.5 loop volume 0.5
+                    ^
 
 Ren'Py Version: Ren'Py 8.0.3.22090809
-Wed Mar 29 01:08:15 2023
+Thu Mar 30 15:17:08 2023
