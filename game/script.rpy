@@ -268,12 +268,15 @@ label flashback:
     """
     scene bg mountains
     show rain
+    show lightning
     with fade
 
     """
     Autour de moi, il n’y avait rien. C’était un paysage immense, mais avec rien à l’horizon excepté une plaine entourée par une chaîne montagneuse.
 
     Peut-être y’avait-il autre chose, mais mes yeux étaient incapables de distinguer quoi que ce soit. 
+
+    {clear}
     
     Je ne suis pas sûr d’avoir même cherché à regarder autour de moi.
 
@@ -282,25 +285,35 @@ label flashback:
     {clear}
 
     Maintenant que j’y repense, mon corps était totalement engourdi, incapable de bouger ni même de faire quoi que ce soit.
+
+    {clear}
   
     Cependant, je me souviens d’une chose, les premiers mots que l’on m’a adressés.
   
     « Hé, petit, qu’est-ce que tu fais là ? »
    
     C’était une voix d’homme.
+
+    {clear}
   
     Je ne me rendais pas compte de sa taille, mais il avait l’air très imposant.
   
-    Après, quel enfant ne trouverai pas imposant un soldat en armure sur un cheval.
+    Après, quel enfant ne trouverait pas imposant un soldat en armure sur un cheval.
+
+    {clear}
    
     Alors que je levais la tête pour voir d’où provenait la voix, je pouvais voir qu’il venait de descendre de son cheval.
    
     Un coup d’œil m’a permis de remarquer qu’une personne portant la même armure se trouvait à côté de moi, il s’agissait probablement de la personne qui m’avait mis la serviette sur la tête.
   
+    {clear}
+
     Alors que la pluie continuait à battre et la foudre continuait à gronder, je regardait l’homme devant moi qui me paraissait être un géant.
    
     Bouche-bée, je n’arrivait pas à dire quoi que ce soit, avais-je seulement la volonté de dire quoi que ce soit ?
    
+    {clear}
+
     L’homme se rapprocha alors de moi et dit
    
     « Hé, petit, qu’est-ce que tu fais là ? Et comment tu t’appel ? »
@@ -314,6 +327,8 @@ label flashback:
     Le soldat acquiesça.
    
     « Bien ! »
+
+    {clear}
    
     L’homme se tourna alors vers d’autres personnes derrière lui, toutes en armure et à cheval.
    
@@ -322,26 +337,48 @@ label flashback:
     Je ne sais pas si c’est la météo ou bien le contexte militaire qui le forçait à parler aussi fort, mais je me souviens bien de ce moment.
    
     Il m’enroula alors dans ce qui semblait être un drap, me colla entre lui et le cheval et commença à galoper.
-   
+    
     Le visage collé à l’armure de ce qui semblait être le supérieur de ces soldat faisant que, je ne pouvait rien voir, donc je ne savais pas comment cette formation « C-38 » était sensée s’articuler, mais la finalité était là ils finirent par m’amener à leur camp militaire.
-   
+    
+    {clear}
+    
     Là-bas on a fini par me poser tout un tas de questions, incapable de parler je répondait en hochant la tête de haut en bas ou de droite à gauche.
     
     Mais ne me souvenant d’absolument rien, c’était la seconde option qui était le plus souvent privilégié.
     
-    Chercher à me souvenir de quelque chose était comme se confronter à un mur, peu importe comment j’essayais, la méthode utilisée rien n’y faisait. Comme si l’entièreté de mon existence avant que l’on me trouve avait été emporté par un trou noir.
+    {clear}
+
+    Chercher à me souvenir de quelque chose était comme se confronter à un mur, peu importe comment j’essayais, la méthode utilisée rien n’y faisait. 
+    
+    Comme si l’entièreté de mon existence avant que l’on me trouve avait été emporté par un trou noir.
     
     Après cela, les soldats qui m’ont retrouvé ont fait pas mal de recherches afin que de trouver mes origines.
-   
+
     Il n’y avait absolument rien à l’endroit où ils m’ont retrouvé, ni calèches, ni vêtements, ni informations utilisables.
+    
+    {clear}
     
     Sotilas, j’ai découvert quelques temps après qu’il s’agissait du nom du soldat qui m’a trouvé, a interroger les villages les plus proches, mais rien.
     
     Il a alors pensé qu’un convoi a pu se faire attaquer par des bandits, et que j’aurai réussi à trouver un moyen de m’enfuir, mais aucune information dans se sens ni avis de disparition de qui que ce soit n’a été émis une durant la semaine précédant ni durant la semaine suivant.
     
-    Ils ont cherché, cherché, cherché et encore cherché, mais rien ni fus. C’est comme si je n’avais jamais existé. La thèse qui a finalement été retenu c’est que j’ai été abandonné dans une forêt non loin par ma famille qui m’aurait abandonnée pour une quelconque raison.
+    {clear}
+
+    Ils ont cherché, cherché, cherché et encore cherché, mais rien ni fus. 
     
-    Quand j’ai découvert ça… je n’ai pas pu pleurer, je n’ai même pas ressenti quoi que ce soit. Après tout, dans mon esprit, le mot « famille » n’était associé à rien. Ni visage, ni personnes, ni concept.
+    C’est comme si je n’avais jamais existé. 
+    
+    La thèse qui a finalement été retenu c’est que j’ai été abandonné dans une forêt non loin par ma famille qui m’aurait abandonnée pour une quelconque raison.
+    
+    {clear}
+
+    Quand j’ai découvert ça… je n’ai pas pu pleurer, je n’ai même pas ressenti quoi que ce soit. 
+    
+    Après tout, dans mon esprit, le mot « famille » n’était associé à rien.
+    
+    Ni visage, ni personnes, ni concept.
+    
+    {clear}
 
     """
 
